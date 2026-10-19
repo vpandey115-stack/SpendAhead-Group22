@@ -89,7 +89,6 @@ Both members implement and test important features. Work will be coordinated thr
 - **Week 13:** Integration testing, usability and error messages.
 - **Week 14 / final buffer:** Bug fixes, running instructions and demo preparation.
 
-Adapt these targets to the final deadline in Webcourses.
 
 ## Initial acceptance tests
 
